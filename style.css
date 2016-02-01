@@ -29,7 +29,8 @@ input {
 }
 #my-list {
 	color: #0050A0;
-   font-size: 1.2em;
+   font-size: 1.4em;
+   margin: 2% 0;
 
 }
 #result{color:#fff;}
@@ -68,6 +69,6 @@ button:active {
    }
    #comment {
    	margin-bottom: 2%;
-   	font-size: 1.2em;
+   	font-size: 1.4em;
    	color: #28597a;
    }
