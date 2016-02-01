@@ -9,6 +9,7 @@ li{
 	border-radius: 10%;
 	background-color: #fff;
 	opacity: 0.6;	
+   margin: 1% 0;
 }
 body{
 	background-image: url("http://lemerg.com/data/wallpapers/39/614778.jpg");
@@ -30,7 +31,7 @@ input {
 #my-list {
 	color: #0050A0;
    font-size: 1.4em;
-   margin: 2% 0;
+  
 
 }
 #result{color:#fff;}
